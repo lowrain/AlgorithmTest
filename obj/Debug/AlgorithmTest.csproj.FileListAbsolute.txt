@@ -1,0 +1,6 @@
+C:\Users\jinzm\Desktop\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.exe.config
+C:\Users\jinzm\Desktop\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.exe
+C:\Users\jinzm\Desktop\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.pdb
+C:\Users\jinzm\Desktop\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.csprojResolveAssemblyReference.cache
+C:\Users\jinzm\Desktop\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.exe
+C:\Users\jinzm\Desktop\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.pdb
